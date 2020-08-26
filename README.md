@@ -1,5 +1,9 @@
 # Employee-Template-Generator
 
+# Application Demo Link
+https://youtu.be/wd2z40xBns4
+
+
 # Application Instructions
 1. To use this fist open a new terminal and run the following comand npm install
 2. Then run this command node app.js
@@ -29,5 +33,3 @@ They are Intern, Engineer, and Manager. The application will ask you a series of
 ![Screenshot (90)](https://user-images.githubusercontent.com/55925449/91246943-bf1f0780-e716-11ea-9e91-ef7afee591ca.png)
 
 
-#Application Demo Link
-https://youtu.be/wd2z40xBns4
